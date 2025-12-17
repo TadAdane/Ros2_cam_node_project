@@ -1,0 +1,11 @@
+# Ignore ROS build files (if they appear here)
+#build/
+#install/
+#log/
+
+# Ignore Python cache
+#__pycache__/
+#*.pyc
+
+# Ignore IDE settings (like VS Code)
+.vscode/
