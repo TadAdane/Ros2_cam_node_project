@@ -69,7 +69,7 @@ Before running this project, ensure you have the following installed on your hos
 Open your terminal and clone the project:
 ```
 git clone https://github.com/TadAdane/Ros2_cam_node_project.git
-cd tasfrs-group-project
+cd Ros2_cam_node_project
 ```
 
 ### **Step 2: Start the Environment**
